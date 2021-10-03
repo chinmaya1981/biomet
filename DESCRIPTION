@@ -7,8 +7,14 @@ Authors@R:
            role = c("aut", "cre"),
            email = "emergingresearch@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
+<<<<<<< HEAD
 Description: Computes biometrical parameters from the plant breeding datasets.
 License: MIT + file LICENSE
+=======
+Description: Computes biometrical parameters from the
+pant breeding datasets.
+License: GPL3
+>>>>>>> 9202043412115cf66e15f40f0ef23a1359a46cbc
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
